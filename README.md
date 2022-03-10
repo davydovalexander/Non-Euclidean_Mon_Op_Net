@@ -1,4 +1,4 @@
-# Non-Euclidean_Mon_Op_Net
+# Non-Euclidean Monotone Operator Network (NEMON)
 
 This is an implementation of the Non-Euclidean Monotone Operator network (NEMON) as presented in the following paper.
 
